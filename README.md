@@ -94,4 +94,5 @@ npm run dev
 ---
 
 ## Live Demo
+https://github.com/LumpyFugu/Cake-Shop/blob/main/demo.mp4
 
